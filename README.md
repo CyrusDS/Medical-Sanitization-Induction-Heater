@@ -1,0 +1,2 @@
+# Medical Sanitization Induction Heater
+ Fairly simple state machine induction heater for use in sanitizing metal objects such as surgical devices and tools. Project was built on an ATmega328p, 7v peak Induction heater, 15A MOSFET to drive heater. There's both an implementation that uses a button on a set timer to sanitize, and one that detects presence of tools with an LDR (light dependent resistor) 
